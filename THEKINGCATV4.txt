@@ -205,8 +205,8 @@ hookfunction(require(game:GetService("ReplicatedStorage").Effect.Container.Death
 hookfunction(require(game:GetService("ReplicatedStorage").Effect.Container.Respawn), function() end)
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 Window = Fluent:CreateWindow({
-    Title = "THE KING CAT V4 [LIMETED]",
-    SubTitle="by thinh-hoang", 
+    Title = "thinh nguyen",
+    SubTitle="blox fruit", 
     TabWidth=155, 
     Theme="Rose",
     Acrylic=false,
